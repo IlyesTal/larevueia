@@ -1,6 +1,8 @@
-# Code Source - La revue IA
+# Matériel tutoriels - La revue IA
 
 Ce dépôt regroupe les codes sources et les notebooks des tutoriels techniques publiés sur [La revue IA](https://larevueia.fr). Vous y trouverez des implémentations pratiques d'algorithmes de Machine Learning et d'outils MLOps/LLM.
+
+> **Note** : Si vous constatez qu'un code ne fonctionne plus ou nécessite une mise à jour, n'hésitez pas à nous le signaler (issue ou commentaire) ! Nous veillons à maintenir ces tutoriels fonctionnels.
 
 ## 📚 Liste des Tutoriels
 
