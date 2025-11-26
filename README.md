@@ -10,9 +10,9 @@ Voici les projets disponibles dans ce dépôt, associés à leurs articles expli
 
 | Sujet | Dossier | Article | Colab |
 |-------|---------|---------|-------|
-| **K-Means** | `Tuto_kmeans/` | [Comprendre la méthode Kmeans](https://larevueia.fr/kmeans/) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X3TEq6PuEfBcwiuaNirCmB5_MaR--SwZ?usp=sharing) |
-| **SVM** | `Tuto_SVM/` | [Tout savoir sur les SVM](https://larevueia.fr/support-vector-machines-svm/) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XBR0vLvBGw7BNHgolzC-kg0qSrGKA5JX?usp=sharing) |
-| **LangChain** | `Tuto_langchain/` | [LangChain : Le guide essentiel](https://larevueia.fr/langchain-le-guide-essentiel/) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mSXvHyPHXeDUxTpIugapOwp8XM4-O4YZ?usp=sharing) |
+| **K-Means** | `Tuto_kmeans/` | [Comprendre la méthode Kmeans](https://larevueia.fr/kmeans/) | <a href="https://colab.research.google.com/drive/1X3TEq6PuEfBcwiuaNirCmB5_MaR--SwZ?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| **SVM** | `Tuto_SVM/` | [Tout savoir sur les SVM](https://larevueia.fr/support-vector-machines-svm/) | <a href="https://colab.research.google.com/drive/1XBR0vLvBGw7BNHgolzC-kg0qSrGKA5JX?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| **LangChain** | `Tuto_langchain/` | [LangChain : Le guide essentiel](https://larevueia.fr/langchain-le-guide-essentiel/) | <a href="https://colab.research.google.com/drive/1mSXvHyPHXeDUxTpIugapOwp8XM4-O4YZ?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | **MLflow** | `Tuto_MLFlow/` | [Introduction à MLflow](https://larevueia.fr/mlflow/) | |
 
 ## 🚀 Installation et Utilisation locale
